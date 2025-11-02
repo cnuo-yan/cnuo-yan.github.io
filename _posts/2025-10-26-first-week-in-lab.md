@@ -1,5 +1,5 @@
 title: "初入顶尖实验室：一名高一学生的第一周见闻 | My First Week in a Top-Tier Lab"
-date: 2025-11-2
+date: 2025-10-26
 categories: [lab, AI, research]
 ---
 
